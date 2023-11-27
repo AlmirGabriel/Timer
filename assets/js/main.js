@@ -40,4 +40,4 @@ function relogio() {
     }
   });
 }
-relogio();
+relogio(q);
